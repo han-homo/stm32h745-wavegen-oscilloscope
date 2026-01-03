@@ -32,9 +32,11 @@ An embedded prototype based on STM32H745 that integrates:
 - STM32CubeIDE (with CubeMX configuration)
 
 ## Build & Flash
-1. Open `Firmware/<ProjectName>` with STM32CubeIDE
-2. Build the project (Debug)
-3. Flash using ST-LINK (Run)
+1. Open STM32CubeIDE
+2. File -> Import -> Existing Projects into Workspace
+3. Select this repository root folder (it contains .project / project_new.ioc)
+4. Build the CM7 project (Debug)
+5. Flash using ST-LINK
 
 ## Demo
 ![OLED UI](1.png)
