@@ -37,9 +37,9 @@ An embedded prototype based on STM32H745 that integrates:
 3. Flash using ST-LINK (Run)
 
 ## Demo
-![OLED UI](main/1.png)
-![Waveform on oscilloscope](main/3.png)
-![FFT / spectrum result](main/5.png)
+![OLED UI](1.png)
+![Waveform on oscilloscope](3.png)
+![FFT / spectrum result](5.png)
 
 
 ## Notes / Troubleshooting
