@@ -1,0 +1,10 @@
+../Core/Src/menu.c:20:6:MENU_SetGenParams	1
+../Core/Src/menu.c:21:6:MENU_GetGenParams	4
+../Core/Src/menu.c:22:6:MENU_UpdateSpectrum	1
+../Core/Src/menu.c:27:13:draw_item	2
+../Core/Src/menu.c:46:13:draw_home	3
+../Core/Src/menu.c:64:13:draw_wave_menu	1
+../Core/Src/menu.c:75:13:draw_spectrum_ui	1
+../Core/Src/menu.c:82:13:draw_peaks_ui	8
+../Core/Src/menu.c:112:6:MENU_Init	1
+../Core/Src/menu.c:118:6:MENU_Draw	5

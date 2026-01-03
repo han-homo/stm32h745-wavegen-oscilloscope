@@ -1,0 +1,8 @@
+../Core/Src/capture_adc.c:17:17:get_tim6_kernel_clk	16	static
+../Core/Src/capture_adc.c:26:13:TIM6_SetFs_Safe	40	static
+../Core/Src/capture_adc.c:55:20:dcache_invalidate_aligned	48	static,ignoring_inline_asm
+../Core/Src/capture_adc.c:63:6:CAP_InitAndStart	16	static
+../Core/Src/capture_adc.c:73:6:CAP_GetLatestFrame	24	static
+../Core/Src/capture_adc.c:80:6:HAL_ADC_ConvHalfCpltCallback	16	static
+../Core/Src/capture_adc.c:86:6:HAL_ADC_ConvCpltCallback	16	static
+../Core/Src/capture_adc.c:94:5:CAP_FetchAndClearProcessFlag	24	static,ignoring_inline_asm

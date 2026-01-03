@@ -1,0 +1,7 @@
+../Core/Src/main.c:81:14:clampf	24	static
+../Core/Src/main.c:84:14:get_fs_real_from_tim6	24	static
+../Core/Src/main.c:119:5:main	64	static
+../Core/Src/main.c:327:6:SystemClock_Config	120	static
+../Core/Src/main.c:385:6:PeriphCommonClock_Config	200	static
+../Core/Src/main.c:414:6:MPU_Config	40	static,ignoring_inline_asm
+../Core/Src/main.c:473:6:Error_Handler	4	static,ignoring_inline_asm

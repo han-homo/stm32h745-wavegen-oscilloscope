@@ -1,0 +1,10 @@
+../Core/Src/menu.c:20:6:MENU_SetGenParams	24	static
+../Core/Src/menu.c:21:6:MENU_GetGenParams	24	static
+../Core/Src/menu.c:22:6:MENU_UpdateSpectrum	24	static
+../Core/Src/menu.c:27:13:draw_item	24	static
+../Core/Src/menu.c:46:13:draw_home	48	static
+../Core/Src/menu.c:64:13:draw_wave_menu	16	static
+../Core/Src/menu.c:75:13:draw_spectrum_ui	8	static
+../Core/Src/menu.c:82:13:draw_peaks_ui	120	static
+../Core/Src/menu.c:112:6:MENU_Init	16	static
+../Core/Src/menu.c:118:6:MENU_Draw	16	static

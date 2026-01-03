@@ -1,0 +1,6 @@
+../Core/Src/gen_dac.c:13:13:build_lut	9
+../Core/Src/gen_dac.c:29:17:get_tim7_kernel_clk	2
+../Core/Src/gen_dac.c:36:13:TIM7_SetFs_Safe	7
+../Core/Src/gen_dac.c:56:6:GEN_InitAndStart	1
+../Core/Src/gen_dac.c:66:6:GEN_Update	1
+../Core/Src/gen_dac.c:72:6:GEN_GetLUT	3

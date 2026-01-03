@@ -1,0 +1,5 @@
+../Core/Src/viz.c:8:12:clampi	24	static
+../Core/Src/viz.c:11:14:find_max	24	static
+../Core/Src/viz.c:17:6:VIZ_Init	8	static
+../Core/Src/viz.c:26:6:VIZ_Draw_Frame	136	static
+../Core/Src/viz.c:77:6:VIZ_Draw_GenWave_LUT	48	static

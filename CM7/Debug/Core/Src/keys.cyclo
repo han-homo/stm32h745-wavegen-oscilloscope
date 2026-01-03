@@ -1,0 +1,7 @@
+../Core/Inc/keys.h:35:23:KEY_Read	1
+../Core/Src/keys.c:19:18:poll_key	13
+../Core/Src/keys.c:67:6:KEYS_Init	1
+../Core/Src/keys.c:75:11:KEY_Get_OK	1
+../Core/Src/keys.c:76:11:KEY_Get_BACK	1
+../Core/Src/keys.c:77:11:KEY_Get_NEXT	1
+../Core/Src/keys.c:78:11:KEY_Get_FREQ	1
