@@ -39,6 +39,7 @@ An embedded prototype based on STM32H745 that integrates:
 ## Demo
 ![OLED UI](1.png)
 ![Waveform on oscilloscope](3.png)
+![wave_generate](4.png)
 ![FFT / spectrum result](5.png)
 
 
