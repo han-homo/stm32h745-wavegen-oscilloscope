@@ -1,0 +1,31 @@
+# ===== STM32CubeIDE / Eclipse =====
+.metadata/
+.settings/
+*.launch
+
+# ===== Build outputs =====
+Debug/
+Release/
+build/
+cmake-build-*/
+*/Debug/
+*/Release/
+
+# toolchain outputs
+*.o
+*.obj
+*.elf
+*.axf
+*.map
+*.hex
+*.bin
+*.d
+*.su
+
+# ===== Logs / temp =====
+*.log
+*.tmp
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
